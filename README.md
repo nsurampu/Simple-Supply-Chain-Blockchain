@@ -1,8 +1,8 @@
 # Simple Supply Chain Blockchain
 
 Blockchain technology as become increasingly popular in the current age, with many companies and businesses adopting the technology for making sensitive transaction more secure. This has also opened up avenues in applications that do not strictly use a crypto-currency. One such example is the application of blockchain for stemming the presence of counterfeit products in the market, especially in the pharma industry. This project aims to build a simple blockchain application for the pharma supply chain, making use of some basic features to show how blockchain can be used for solving the problem of counterfeit drugs.
-<br>
-![Pharma Supply Chain with Blockchain]()
+<br><br>
+![Pharma Supply Chain with Blockchain](https://github.com/nsurampu/Simple-Supply-Chain-Blockchain/blob/master/blockchain.png)
 <br><br>
 To run the application, navigate to ***Blockchain/codebase***. From here, run the Python script ***blockchain.py*** to start the application
 Additionally, if on Windows, the application can be started by launching the ***blockchain.exe*** file present in ***Blockchain/dist***. 
